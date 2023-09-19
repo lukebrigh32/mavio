@@ -1,0 +1,57 @@
+{
+	"headline": "Our Approach",
+	"tab": [
+		{
+			"title": {
+				"text": "Customized System Design"
+			},
+			"open": true,
+			"content": {
+				"headline": "Customized System Design",
+				"text": "With your input, our experienced design engineers can tailor a system that is perfect for your operation's needs, goals, and budget. Our dedicated team is focused on helping you build a long-term solution for your business and receive the maximum value for your investment.",
+				"url": "#",
+				"destination": "Details",
+				"image": "https://woodmizer.com/us/portals/0/Images/products/systems/Custom_System-Design-1920w.jpg?ver=2021-05-25-093533-343"
+			}
+		},
+		{
+			"title": {
+				"text": "Detailed Project Management"
+			},
+			"content": {
+				"headline": "Detailed Project Management",
+				"text": "We will work closely with you to optimize your production, guarantee an efficient operation and make sure your project keeps moving forward with transparency and detailed communication. This includes preliminary designs, cost estimates, feasibility analysis, execution methods and installation, an agreed-upon schedule, and more.",
+				"url": "#",
+				"destination": "Details",
+				"image": "https://woodmizer.com/us/portals/0/Images/products/systems/Project_Manage_WEB_1920w.jpg?ver=2021-05-25-093533-343"
+			},
+			"open": false
+		},
+		{
+			"title": {
+				"text": "World-Class Manufacturing"
+			},
+			"content": {
+				"headline": "World-Class Manufacturing",
+				"text": "With 100,000+ sawmill operations in more than 100 countries, Wood-Mizer is the undisputed global leader in thin-kerf sawmilling equipment. We use modern design and manufacturing techniques including 3D CAD, laser profiling, CNC bending and CNC machining. Our onsite machinery and technology allows us to build heavy-duty, durable, and high-value systems that are running efficiently in customer operations all around the world.",
+				"url": "#",
+				"destination": "Details",
+				"image": "https://woodmizer.com/us/portals/0/Images/products/systems/Manufacturing_WEB_1920w.jpg?ver=2021-05-25-093533-343"
+			},
+			"open": false
+		},
+		{
+			"title": {
+				"text": "In-Depth Training & Installation"
+			},
+			"content": {
+				"headline": "In-Depth Training & Installation",
+				"text": "Our team will provide in-depth training on the equipment for the mill personnel, track the installation progress and make all necessary adjustments to guarantee the installation is completed successfully. Our mission is to be your long-term partner in the sawmilling industry, and we do that by standing behind our products and providing premium after sales service experience.",
+				"url": "#",
+				"destination": "Details",
+				"image": "https://woodmizer.com/us/portals/0/Images/products/systems/Installation_WEB_1920w.jpg?ver=2021-05-25-093533-343"
+			},
+			"open": false
+		}
+	]
+}
